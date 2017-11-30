@@ -1,0 +1,23 @@
+{
+  "name": "apostrophe-extra-link-attributes",
+  "version": "2.0.0",
+  "description": "Add extra attributes to link tags in the Apostrophe CMS. You get to configure which are allowed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punkave/apostrophe-extra-link-attributes.git"
+  },
+  "keywords": [
+    "apostrophe",
+    "ckeditor"
+  ],
+  "author": "P'unk Avenue LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/punkave/apostrophe-extra-link-attributes/issues"
+  },
+  "homepage": "https://github.com/punkave/apostrophe-extra-link-attributes#readme"
+}
